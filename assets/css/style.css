@@ -1,0 +1,29 @@
+/* Bootstrap / CSS */
+
+.char-container{
+	width: 20%;
+	display: inline-block;
+}
+
+.char-section-container{
+	display: inline-block;
+}
+
+.image{
+	height: 100%;
+    width: 100%;
+}
+
+#character-render-section{
+	min-width: 100%;
+}
+
+button{
+	margin-bottom: 20px;
+}
+
+p{
+	margin: 0;
+	padding: 0;
+}
+
